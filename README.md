@@ -6,4 +6,4 @@ Markov chain Monte Carlo simulation (with adaptive weight learning) for integer 
 
 The C source codes can be found in the src directory.
 
-DOI: https://doi.org/10.5281/zenodo.22257160
+ 
