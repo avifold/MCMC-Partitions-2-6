@@ -81,7 +81,7 @@
 // Number of completely independent Monte Carlo runs whose production
 // sufficient statistics are pooled.
 #ifndef NUM_RUNS
-#define NUM_RUNS 1
+#define NUM_RUNS 15
 #endif
 
 // ------------------------ Window parameters ---------------------------------
